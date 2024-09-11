@@ -15,6 +15,7 @@ PROGS =			\
 	$B/sugetgthr	\
 	$B/sugprfb	\
 	$B/sukill	\
+	$B/sumatrix 	\
 	$B/sumixgathers	\
 	$B/sumute	\
 	$B/sumutecsv   	\

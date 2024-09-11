@@ -14,6 +14,7 @@ PROGS =			\
 	$B/sufarldcsv	\
 	$B/sugetqcsv	\
 	$B/surandstat	\
+	$B/sunszonecsv  \
 	$B/surescsv 	\
 	$B/suresstat	\
 	$B/sushiftcsv   \
